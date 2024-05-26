@@ -1,0 +1,1 @@
+This repository contains a JMeter script integrated with Selenium WebDriver for performance testing web applications. It combines JMeter's load testing capabilities with Selenium's browser automation to simulate realistic user interactions.
